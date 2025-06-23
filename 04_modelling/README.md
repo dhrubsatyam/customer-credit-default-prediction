@@ -1,4 +1,4 @@
-# Credit Default Prediction - Machine Learning Model Comparison
+# Credit Default Prediction - Machine Learning Model Comparison (Contribution: Dhrub Satyam - dsatyam@sandiego.edu)
 
 ## Problem Statement
 This project focuses on building a machine learning model to predict customer credit default using real-world tabular data. The objective is to develop robust predictive models that can accurately identify customers who are likely to default on their credit obligations, enabling financial institutions to make informed lending decisions and mitigate risk.
@@ -7,8 +7,8 @@ This project focuses on building a machine learning model to predict customer cr
 This project implements and compares multiple machine learning models for credit default prediction. The analysis is split across two Jupyter notebooks: a baseline implementation and advanced modeling techniques to evaluate performance improvements. The modeling work builds upon the exploratory data analysis (EDA) and preprocessing completed by Anugrah, utilizing the processed dataset generated from their comprehensive data exploration phase.
 
 ## Project Structure
-├── baseline_model.ipynb          # Baseline implementation
-├── advanced_modeling.ipynb       # Advanced modeling
+ - baseline_model.ipynb          # Baseline implementation
+ - advanced_modeling.ipynb       # Advanced modeling
 
 ## Data Source
 The modeling work utilizes the processed dataset generated from comprehensive Exploratory Data Analysis (EDA) conducted by Anugrah. This preprocessed file includes:
