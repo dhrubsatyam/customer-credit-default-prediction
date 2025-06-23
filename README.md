@@ -1,4 +1,6 @@
-# customer-credit-default-prediction
+# AAI500 - Team 7 - Final Project: Customer Credit Default Prediction
+
+## Project Details:
 This project is part of the final term submission for the M.S. in Applied Artificial Intelligence (AAI) course AAI500. It focuses on building a machine learning model to predict customer credit default using real-world tabular data, with emphasis on EDA, modeling, evaluation, and collaborative development.
 
 ## Team Details
