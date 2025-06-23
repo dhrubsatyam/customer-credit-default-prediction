@@ -9,7 +9,7 @@ This project implements and compares multiple machine learning models for credit
 
 ## Project Structure
  - baseline_model.ipynb          # Baseline implementation
- - advanced_modeling.ipynb       # Advanced modeling
+ - advanced_modeling.ipynb       # Advanced modeling and Hyperparameter Tuning
 
 ## Data Source
 The modeling work utilizes the processed dataset generated from comprehensive Exploratory Data Analysis (EDA) conducted by Anugrah. This preprocessed file includes:
