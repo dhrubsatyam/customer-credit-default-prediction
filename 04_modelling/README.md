@@ -1,4 +1,5 @@
-# Credit Default Prediction - Machine Learning Model Comparison (Contribution: Dhrub Satyam - dsatyam@sandiego.edu)
+# Credit Default Prediction - Machine Learning Model Comparison 
+(Contribution: Dhrub Satyam - dsatyam@sandiego.edu)
 
 ## Problem Statement
 This project focuses on building a machine learning model to predict customer credit default using real-world tabular data. The objective is to develop robust predictive models that can accurately identify customers who are likely to default on their credit obligations, enabling financial institutions to make informed lending decisions and mitigate risk.
