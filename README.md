@@ -3,6 +3,8 @@ This project is part of the final term submission for the M.S. in Applied Artifi
 
 ## Team Details
 
+Team 7 - AAI500 (Final Project)
+
 - Anugrah Rastogi
 - Malleshan D
 - Dhrub Satyam
